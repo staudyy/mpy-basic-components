@@ -2,6 +2,8 @@
 
 This library implements classes to simplify use of various frequently used components such as LED, RGB LED, Button, Temperature sensor. To use this library save it onto your microcontroller board and then import it in code normally.
 
+**Check out [Digital Thermometer Pico](https://github.com/staudyy/digital-thermometer-pico) for a showcase of this library!**
+
 # Documentation
 In every class on init you have to specify the pin number **(int)** (or multiple pin numbers) to which the component is connected on the microcontroller.
 
